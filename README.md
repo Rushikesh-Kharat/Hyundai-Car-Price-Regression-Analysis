@@ -43,7 +43,7 @@
 
 <br />
 
-* Outlier Analysis is a method of data cleaning in which we remove outliers, or abnormal observations, in a dataset. *
+#### *Outlier Analysis is a method of data cleaning in which we remove outliers, or abnormal observations, in a dataset.*
 
 ![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/d7622149-8502-4ed1-8891-ce5338719fcc)
 
