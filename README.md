@@ -19,8 +19,22 @@
 
 | Files/Folder | Description |
 | -----------  | ----------- |
-| CSV File  | This folder contains cleaned csv data files           |
-| Deployment    | This folder contains files related to deployment and spell checker      |
-| Graphic | This folder contains insights snapshots that are used in this Repository     |
-| Web Scraping | This folder contains Jupyter notebook file & Web driver used for Web scraping   |
+| CSV File  | This folder contains csv data file containing data for analysis           |
+| Jupyter Notebook    | This folder contains files which contain all the python coding done for analysis     |
 | Presentation | This is a powerpoint presentation file that contains all major Insights and conclusion |
+| Word File | This folder contains a document that provides csv data file and procedure instructions   |
+
+<br />
+
+### **PROJECT ROADMAP**
+
+<br />
+
+### **PROJECT ROADMAP**
+
+![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/8940a45b-158e-4cec-8f91-e364c92a02e3)
+
+<br />
+
+
+
