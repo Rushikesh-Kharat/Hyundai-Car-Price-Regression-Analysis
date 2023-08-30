@@ -30,7 +30,8 @@
 
 ### **PROJECT ROADMAP**
 
-![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/063e13b9-b998-463f-8c67-a2286520faff)
+![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/6335cf9c-ba99-4b1f-bfcf-2c842c82889b)
+
 
 <br />
 
