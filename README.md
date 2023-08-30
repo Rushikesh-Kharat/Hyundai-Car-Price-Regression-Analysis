@@ -24,15 +24,13 @@
 | Presentation | This is a powerpoint presentation file that contains all major Insights and conclusion |
 | Word File | This folder contains a document that provides csv data file and procedure instructions   |
 
-<br />
 
-### **PROJECT ROADMAP**
 
 <br />
 
 ### **PROJECT ROADMAP**
 
-![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/8940a45b-158e-4cec-8f91-e364c92a02e3)
+![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/063e13b9-b998-463f-8c67-a2286520faff)
 
 <br />
 
