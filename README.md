@@ -2,7 +2,11 @@
 
 ### **INTRODUCTION**
 
-####  This repository comprises project files on - Predicting the Resale Value of Used Hyundai Cars which is a Regression Analysis performed using machine learning. The primary goals of the project were:
+####  This repository comprises project files on - Predicting the Resale Value of Used Hyundai Cars which is a Regression Analysis performed using machine learning. 
+
+<br/>
+
+The primary goals of the project were:
 
 1. To understand the data and analyse the variables provided to predict the price of used Hyundai cars
 2. To preprocess the data for futher analysis.
