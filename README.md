@@ -1,4 +1,7 @@
-# Hyundai Car Price Regression Analysis
+# *Hyundai Car Price Regression Analysis*  
+
+<br />
+
 
 ### **INTRODUCTION**
 
@@ -26,7 +29,7 @@ The primary goals of the project were:
 | CSV File  | This folder contains csv data file containing data for analysis           |
 | Jupyter Notebook    | This folder contains files which contain all the python coding done for analysis     |
 | Presentation | This is a powerpoint presentation file that contains all major Insights and conclusion |
-| Word File | This folder contains a document that provides csv data file and procedure instructions   |
+| Word File | This folder contains a document that provides csv document link and procedure instructions   |
 
 
 
@@ -43,6 +46,7 @@ The primary goals of the project were:
 
 <br />
 
+- **Identifying Numerical and Categorical Columns for Outlier Analysis**  
 ![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/c915d0e9-284b-4f71-8846-fe0617e6d4dd)
 
 <br />
