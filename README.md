@@ -46,12 +46,19 @@ The primary goals of the project were:
 
 <br />
 
-- **Identifying Numerical and Categorical Columns for Outlier Analysis**  
+- **Identifying Numerical and Categorical Columns for Outlier Analysis**
+
+<br />
+
+
 ![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/c915d0e9-284b-4f71-8846-fe0617e6d4dd)
 
 <br />
 
 #### *Outlier Analysis is a method of data cleaning in which we remove outliers, or abnormal observations, in a dataset.*
+
+<br />
+
 
 ![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/d7622149-8502-4ed1-8891-ce5338719fcc)
 
