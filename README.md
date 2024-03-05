@@ -84,7 +84,8 @@ The primary goals of the project were:
 
 <br />
 
-![image](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/b4180152-12c0-406f-a7b7-491d8a320036)
+![Screenshot 2024-03-05 112058](https://github.com/Rushikesh-Kharat/Hyundai-Car-Price-Regression-Analysis/assets/99657888/b16ba163-126e-436f-883d-3b1276c96f67)
+
 
 <br />
 
